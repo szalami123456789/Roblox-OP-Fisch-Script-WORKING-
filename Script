@@ -1,0 +1,4 @@
+Script:                                                           --[[
+	Made by: MysteryGuy_69 {Sub to RageBlox247 for more Op scripts}
+]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skibidiking123/Fisch1/refs/heads/main/FischMain"))()
